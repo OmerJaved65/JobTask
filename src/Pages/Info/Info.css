@@ -1,0 +1,17 @@
+.Main-div{
+    margin-top: 10%;
+    background-color:#DEFCFF;
+    margin-left: 35%;
+    margin-right: 45%;
+    
+}
+.input-fields{
+   color: darkgreen;
+   margin-left: 20px;
+   margin-right: 30px;
+}
+.select-fields{
+    margin-left: 20%;
+    margin-right: 20%;
+    color: darkgreen;
+}
